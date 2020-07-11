@@ -1,0 +1,9 @@
+{
+  "name": "audit.js",
+  "version": "1.0.0",
+  "description": " Capture analytical data on the client-side without hassling about cookies.",
+  "main": "index.js",
+  "repository": "https://github.com/utkarshdubey/audit.js.git",
+  "author": "Utkarsh Dubey <utkarsh.dubey3jan@gmail.com>",
+  "license": "MIT"
+}
